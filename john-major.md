@@ -18,7 +18,8 @@ Rigger / Decker
 Metatype
 --------
 
-His body is weak and his nerves are shot, but John Major is skilled and wealth from his days as a bank robber.
+His body is weak and his nerves are shot, but John Major is skilled and wealth
+from his days as a bank robber.
 
 |          | metatype | attr | magic | skills | res        |
 |----------|----------|------|-------|--------|------------|
@@ -37,96 +38,98 @@ Note: Edge is at 3/7 because I have been burning it.
 Qualities
 ---------
 
-|    Quality                   | karma |
-|------------------------------|-------|
-|    analytical mind           | -5    |
-|    juryrigger                | -10   |
-|    gearhead                  | -11   |
-|    photographic memory       | -6    |
-|    ???                       | +25   |
-|    scorched                  | +10   |
-|    social stress (paranoia)  | +8    |
+| Quality                   | karma |
+|---------------------------|-------|
+| analytical mind           | -5    |
+| juryrigger                | -10   |
+| gearhead                  | -11   |
+| photographic memory       | -6    |
+| ???                       | +25   |
+| scorched                  | +10   |
+| social stress (paranoia)  | +8    |
 
-| ???                          | ???   |
-|------------------------------|-------|
-|    left over                 | 11    |
-|    keeep                     | 7     |
-|    6 karma                   | ??    |
+| ???                       | ???   |
+|---------------------------|-------|
+| left over                 | 11    |
+| keeep                     | 7     |
+| 6 karma                   | ??    |
 
 Note: ??? means I can't remember what my notes mean here.
 
 Skills
 ------
 
-| Skill / group                            | Level      |
-|------------------------------------------|------------|
-|    Cracking (group)                      | 5          |
-|    36                                    | ???        |
-|    Pilot Ground Craft                    | 3          |
-|    Computer                              | 5          |
-|    Hardware                              | 5          |
-|    Software                              | 5          |
-|    Cybertechnology                       | 5          |
-|    Pistols                               | 3          |
-|    Forgery                               | 2          |
-|    The engineering skills                | 1 each (4) |
-|    Professional Knowledge (bank robbing) | 4          |
+| Skill / group                         | Level      |
+|---------------------------------------|------------|
+| Cracking (group)                      | 5          |
+| 36                                    | ???        |
+| Pilot Ground Craft                    | 3          |
+| Computer                              | 5          |
+| Hardware                              | 5          |
+| Software                              | 5          |
+| Cybertechnology                       | 5          |
+| Pistols                               | 3          |
+| Forgery                               | 2          |
+| The engineering skills                | 1 each (4) |
+| Professional Knowledge (bank robbing) | 4          |
 
 Gear
 ----
 
 ### Items
 
-| Item | Value   |
-|------|---------|
-|    Streetline special | 120 |
-|    100 clips		| 12,500 |
-|    Ridiculous leather coat | 1,000 |
-|    10 R4 SINs		| 100,000 |
-|    hammer program | 250 |
-|    trodes						 |	70 |
-|    goggles	R6 empty		|			300 |
-|    cigs | 500 |
+| Item                    | Notes  | Rating | Value   |
+|-------------------------|--------|--------|---------|
+| Streetline special      |        |        | 120     |
+| 100 clips		  |        |        | 12,500  |
+| Ridiculous leather coat |        |        | 1,000   |
+| 10 SINs		  |        | 4      | 100,000 |
+| hammer program          |        |        | 250     |
+| trodes                  |        |        | 70      |
+| goggles                 | empty  | 6      | 300     |
+| cigs (quantity???)      |        |        | 500     |
 
 ### Vehicle
 
-John Major lives in an armoured personnel carrier lined with tinfoil so the reptilians can't get him.
+John Major lives in an armoured personnel carrier lined with tinfoil so the
+reptilians can't get him.
 
-| Item | Value   |
-|------|---------|
-|    Ares Roadmaster      |   52,000 |
-|      6 assault rifle mounts     |    15,000 |
-|      6 assault rifles          |   7,500 |
-|      1 program laurie mentioned  | 3k |
-|    1500 assault rifle bullets	| 30,000 |
+| Item                       |  Value |
+|----------------------------|--------|
+| Ares Roadmaster            | 52,000 |
+| 6 assault rifle mounts     | 15,000 |
+| 6 assault rifles           |  7,500 |
+| 1 program laurie mentioned |  3,000 |
+| 1500 assault rifle bullets | 30,000 |
 
 ### Deck
 
-| Item            | Notes            | Rating | Value   |
+| Model           | Notes            | Rating | Value   |
 |-----------------|------------------|--------|---------|
 | Renraku Tsurugi |                  | 3      | 214,125 |
 |                 | Program capacity | 3      |         |
-|                 |    firewall      | 5      |         |
-|                 |     sleaze       | 6      |         |
-|                 |     attack       | 3      |         |
-|                 |     data proc    | 5      |         |
+|                 | firewall         | 5      |         |
+|                 | sleaze           | 6      |         |
+|                 | attack           | 3      |         |
+|                 | data proc        | 5      |         |
 
 ### Lifestyle
 
-Lives in a van (homeless.)
+Lives in a van [I think this corresponds to the 'squatter' lifestyle option for
+which I can't remember the rules.]
 
 ### Picked up
 
-| Item |
-|------|
-|    1 pot of semen from new york man. |
-|    cred stick with 62k on it |
-|    500 stick |
-|    +5 dollar |
-|    garlic and crucifixes |
+| Item                              |
+|-----------------------------------|
+| 1 pot of semen from new york man. |
+| cred stick with 62k on it         |
+| 500 stick                         |
+| +5 dollar                         |
+| garlic and crucifixes             |
 
-People
-------
+Contacts
+--------
 
 ### Esteban
 
