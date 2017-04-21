@@ -10,6 +10,28 @@ to a lot of money stashed during his bank robbing days, but he has become a
 paranoid conspiracy theorist and lives off the grid in his armoured personnel
 carrier to avoid the attention of the lizard people.
 
+Born into a middle class family, John gave up a promising career in the family
+business selling lawn ornaments for a life of crime after reading too much
+William Gibson.  He learned computer security from nerds on the internet, and
+soon had the power to cause havoc by typing 'DROP TABLE' into websites written
+by stupid people.  Soon he was running with a bank robbing gang, where his
+aptititude for technology and ability to crack even the hardest security
+systems proved invaluable.
+
+One day though, John's luck ran out.  After penetrating the most sophisticated
+bank vault of his career, the gang were about to make off with a king's ransom
+in credit sticks when the kleptomaniac Maggie couldn't resist trying to steal a
+great big shiny gold thing which turned out to be a trap.  Thanks to John's
+hacking they made it out alive but, as they drove away he was still plugged in,
+and the bank's security overcame his defences leaving him scorched.
+
+Unable to work, John became paranoid and began living in a tinfoil lined
+armoured personnel carrier he had bought as military surplus. He now drives
+around the streets of Birmingham trying to avoid the attentions of the lizard
+people who secretly run the world.
+
+
+
 Class
 -----
 
@@ -131,10 +153,13 @@ which I can't remember the rules.]
 Contacts
 --------
 
-### Esteban
+### Maggie & Dennis
 
-John knows a fence called Esteban from his bank robbing days.
+John knows a fence called Dennis from his bank robbing days.  Dennis became a
+fence in order to palm off the massive pile of stolen goods in their house
+thanks to the antics of his kleptomaniac wife Maggie, who has been known even
+to steal cartons of milk from school children.
 
-| Name    | Type  | Contact | Loyalty |
-|---------|-------|---------|---------|
-| Esteban | Fence | 4       | 4       |
+| Name            | Type  | Contact | Loyalty |
+|-----------------|-------|---------|---------|
+| Maggie & Dennis | Fence | 4       | 4       |
